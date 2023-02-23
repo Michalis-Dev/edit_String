@@ -9,7 +9,7 @@ with open('test1.xml', 'r', encoding='utf-8') as wtf:
     data = wtf.read()
 
 
-#a = ET.parse('test1.xml')
+#a = ET.parse('test1.xml') dokimi
 
 #b = a.findall("extraitAccounts")
 
